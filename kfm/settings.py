@@ -43,8 +43,6 @@ INSTALLED_APPS = (
 	'south',
     'rest_framework',
     'radio',
-    'dj-database-url',
-
 )
 
 MIDDLEWARE_CLASSES = (
